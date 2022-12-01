@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrzegorzLorenc
 - 👀 I’m interested in tech, video games, history, philosophy
-- 🌱 I’m currently learning Python programming, Git
+- 🌱 I’m currently learning Python programming,Bash scripting, Git, AWS
 
 
 <!---
