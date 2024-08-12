@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @GrzegorzLorenc
-- 👀 I’m interested in tech, video games, history, philosophy
-- 🌱 I’m currently learning Python programming,Bash scripting, Git, AWS
+- - 🌱 Data analyst
+  - SQL
+  - Excel
+  - Tableau / PowerBI
+  - BigQuery
+  - R
+  - Python
+ 
+  - - 🌱 Other: Bash scripting, Git, AWS
+
+- 👀 My personal interests are tech, video games, tabletop / card games, history, philosophy
 
 
 <!---
