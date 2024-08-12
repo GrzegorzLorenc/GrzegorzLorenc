@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @GrzegorzLorenc
 - - 🌱 Data analyst
   - SQL
-  - Excel
+  - Excel / Google Sheets
   - Tableau / PowerBI
   - BigQuery
   - R
   - Python
+  - Experienced in team-to-team and customer communication
+  
  
   - - 🌱 Other: Bash scripting, Git, AWS
 
